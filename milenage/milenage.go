@@ -1,3 +1,5 @@
+// File downloaded from github.com/wmnsk/milenage (121f4a6)
+
 // Copyright 2018-2023 milenage authors. All rights reserved.
 // Use of this source code is governed by a MIT-style license that can be
 // found in the LICENSE file.
